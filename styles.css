@@ -1,0 +1,43 @@
+*{
+    background-color: #e8effe;
+}
+
+img{
+
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+ul,
+ol,
+li,
+h4{
+    background-color: #bcd2fb;
+    font-size: 20px;
+}
+
+#dish-name{
+
+    text-align: center;
+    font-size: 40px;
+    background-color: #d1e0fd;
+    font-family: Verdana,Arial,sans-serif;
+}
+
+h3{
+    font-size: 30px;
+    font-family: Verdana, "Courier New", sans-serif;
+
+}
+
+#mainpage{
+    text-align: center;
+    
+}
+
+li>a{
+    font-size: 25px;
+}
